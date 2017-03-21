@@ -1,3 +1,4 @@
 **/.vs/**
 OptimizationTests/bin/**
 OptimizationTests/obj/**
+OptimizationTests/packages/**
